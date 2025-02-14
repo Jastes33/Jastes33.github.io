@@ -15,6 +15,7 @@
   min-height: 410px;
   background-image: url("images/Screenshot2025-01-20at7.16.27PM1.png");
   background-position: 50% 50%;
+  --radius: 20px;
 }
 
 .u-section-1 .u-container-layout-1 {
